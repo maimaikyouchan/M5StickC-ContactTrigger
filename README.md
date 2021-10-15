@@ -1,0 +1,2 @@
+# M5StickC-ContactTrigger for IFTTT 公開版
+ソース管理が面倒になってきてソースが吹っ飛んだりして詰み始めたのでGitHubで公開してみようと思った。
