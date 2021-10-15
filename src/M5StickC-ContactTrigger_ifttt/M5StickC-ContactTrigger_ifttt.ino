@@ -1,6 +1,5 @@
 ﻿/*
     接点監視送信機 【Ver.3.6.1】
-    (C)2019-2021 maita Works.
 */
 
 #include <M5StickC.h>
