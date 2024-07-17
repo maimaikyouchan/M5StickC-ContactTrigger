@@ -634,7 +634,7 @@ void AboutVer()
     tftSprite.setCursor(5, 40);
     tftSprite.setTextSize(1);
     tftSprite.setTextFont(1);
-    tftSprite.println("(C) MaitaWorks");
+    tftSprite.println("## Open Source ##");
 
     tftSprite.setCursor(5, 60);
     tftSprite.setTextSize(1);
